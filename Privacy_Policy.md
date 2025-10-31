@@ -298,8 +298,11 @@ To stop data collection, uninstall the App.
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 **Email:** dreamapps.ios@gmail.com
+
 **App:** Party Legend: Guess the Role
+
 **Developer:** Ivan Antonov
+
 **Country:** Ukraine
 
 **Response Time:** We aim to respond within 7 business days.
