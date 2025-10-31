@@ -5,9 +5,6 @@
   # Убрать название репозитория из заголовка
   show_downloads: false
 
-  # Использовать чистую тему
-  theme: jekyll-theme-minimal
-
   # Настройки темы
   github:
   is_project_page: false
