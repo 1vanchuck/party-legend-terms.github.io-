@@ -1,13 +1,12 @@
 # Базовые настройки
   title: "Party Legend: Legal Documents"
-  description: "Terms & Conditions and Privacy Policy for Party Legend iOS 
-  app"
+  description: "Terms & Conditions and Privacy Policy"
 
   # Убрать название репозитория из заголовка
   show_downloads: false
 
   # Использовать чистую тему
-  theme: jekyll-theme-cayman
+  theme: jekyll-theme-minimal
 
   # Настройки темы
   github:
