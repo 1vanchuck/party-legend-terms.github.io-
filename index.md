@@ -11,8 +11,9 @@
   Read our complete Terms & Conditions including subscription terms, age
   requirements, and user responsibilities.
 
-  ### Privacy Policy
-  Coming soon - will be added before App Store release
+  ### [Privacy Policy](Privacy_Policy.md)
+  Complete privacy policy including data collection, Firebase Analytics
+  usage, children's privacy (COPPA), and your rights.
 
   ---
 
@@ -31,7 +32,7 @@
 
   - App Store (coming soon)
   - [Terms & Conditions](Terms_and_Conditions.md)
-  - Privacy Policy (coming soon)
+  - [Privacy Policy](Privacy_Policy.md)
 
   ---
 
