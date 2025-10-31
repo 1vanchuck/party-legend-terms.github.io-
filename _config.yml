@@ -1,6 +1,6 @@
 # Базовые настройки
   title: "Party Legend: Legal Documents"
-  description: "Terms & Conditions and Privacy Policy"
+  description: "Terms & Conditions"
 
   # Убрать название репозитория из заголовка
   show_downloads: false
