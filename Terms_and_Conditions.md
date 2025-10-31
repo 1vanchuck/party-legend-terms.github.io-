@@ -316,9 +316,9 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have questions about these Terms, please contact us:
 
-**Email**: dreamapps.ios@gmail.com
-**App**: Party Legend: Guess the Role
-**Developer**: Ivan Antonov
+- **Email**: dreamapps.ios@gmail.com
+- **App**: Party Legend: Guess the Role
+- **Developer**: Ivan Antonov
 
 For technical support, subscription issues, or general inquiries, please reach out via email.
 
