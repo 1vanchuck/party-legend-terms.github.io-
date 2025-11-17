@@ -5,7 +5,9 @@
 Welcome to **Party Legend: Guess the Role**! This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
 
 **Developer:** Ivan Antonov
+
 **Contact:** dreamapps.ios@gmail.com
+
 **Country:** Ukraine
 
 ---
