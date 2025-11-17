@@ -5,9 +5,7 @@
 Welcome to **Party Legend: Guess the Role**! This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
 
 **Developer:** Ivan Antonov
-
 **Contact:** dreamapps.ios@gmail.com
-
 **Country:** Ukraine
 
 ---
@@ -15,17 +13,16 @@ Welcome to **Party Legend: Guess the Role**! This Privacy Policy explains how we
 ## 1. Overview
 
 Your privacy is important to us. This Privacy Policy describes:
-- What information we collect (spoiler: very little!)
+- What information we collect
 - How we use that information
 - Your rights and choices
-- How we protect children's privacy
 
 **Key Points:**
 - ✅ No personal information is collected
 - ✅ No account registration required
 - ✅ All game data stored locally on your device only
 - ✅ No sharing of data with third parties (except anonymous analytics)
-- ✅ COPPA compliant for children under 13
+- ✅ App is rated 17+ and intended for mature audiences
 
 ---
 
@@ -41,7 +38,7 @@ We **do not** collect or store:
 - ❌ Payment information (handled by Apple)
 - ❌ User accounts or profiles
 - ❌ Social media connections
-- ❌ Device identifiers (IDFA/IDFV)
+- ❌ Advertising identifiers (IDFA)
 
 ### 2.2 Information We DO Collect
 
@@ -51,8 +48,8 @@ The App stores the following data **locally on your device** using iOS UserDefau
 - Player names you create (e.g., "John", "Sarah")
 - Player colors assigned in the game
 - Game settings (hosting mode, language preference)
-- Age verification selection (Under 18 / 18+)
 - Selected game categories
+- Game history and statistics
 - Onboarding completion status
 
 **Important:** This data never leaves your device and is deleted when you uninstall the App.
@@ -90,7 +87,7 @@ When you purchase a subscription:
 
 ### Local Data (on your device)
 - To provide core game functionality (save players, settings, preferences)
-- To remember your age verification choice
+- To store game history and statistics
 - To track onboarding completion
 
 ### Anonymous Analytics
@@ -120,53 +117,40 @@ When you purchase a subscription:
 - **Purpose:** Subscription processing and payments
 - **Data Collected:** Transaction data (managed by Apple)
 - **Privacy Policy:** [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
-- Your purchases and subscriptions are also governed by the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/).
+
+Your purchases and subscriptions are governed by the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/).
 
 These services may collect data according to their own privacy policies. We recommend reviewing them.
 
 ---
 
-## 5. Children's Privacy (COPPA Compliance)
+## 5. Age Requirements
 
-**Party Legend** is rated **12+** on the App Store.
+**Party Legend** is rated **17+** on the App Store and is intended for users aged 17 and older.
 
-### For Children Under 13
+**Why 17+:**
+- The App contains mature themes and adult humor in text-based role descriptions
+- Content may include references to adult situations and mature topics
+- All content is text-based with no explicit images or videos
 
-We comply with the **Children's Online Privacy Protection Act (COPPA)**.
-
-**What We Do:**
-- ✅ We do NOT knowingly collect personal information from children under 13
-- ✅ No account registration or email required
-- ✅ All data stored locally on device
-- ✅ Anonymous analytics only (no personal identifiers)
-- ✅ Age verification in-app (Under 18 / 18+)
-
-**Parental Control:**
-- Parents can review all game data in the App (player names, settings)
-- Parents can delete all data by uninstalling the App
-- Parents should supervise children's use of the App
-
-**If you are under 13:**
-- You must have parental/guardian consent to use this App
-- Do not enter real names or personal information
-- Ask a parent to help with in-app purchases
-
-If we discover we have inadvertently collected information from a child under 13, we will delete it immediately.
+**Compliance:**
+- We do not knowingly allow users under 17 to access the App
+- By downloading the App, you confirm you are at least 17 years old
+- Parents should ensure minors do not access this App
 
 ---
 
-## 6. Age Verification & Content Filtering
+## 6. Content Type & Maturity
 
-**Age Selection:**
-- Users can select "Under 18" or "18+" in the App
-- This selection is stored locally on your device only
-- Age verification determines which content categories are available
-- Under 18: Access to all-ages content only
-- 18+: Access to all content, including adult-themed categories
+**Text-Based Content:**
+- All role descriptions are **text-only** - no explicit images, videos, or audio
+- Content includes mature humor, adult themes, and comedic scenarios
+- Categories range from family-friendly to adult-oriented humor
 
-**Changing Age Settings:**
-- You can change your age selection anytime in Settings
-- This immediately updates available content
+**User Responsibility:**
+- Users must be 17+ to use this App
+- Users are responsible for ensuring gameplay is appropriate for their environment
+- Content is designed for entertainment among mature audiences
 
 ---
 
@@ -204,14 +188,13 @@ We take reasonable measures to protect your data:
 ## 9. Your Rights & Choices
 
 ### You Have the Right To:
-- ✅ **Access:** View all data stored in the App (Settings → Manage People)
+- ✅ **Access:** View all data stored in the App (Settings → Manage Players)
 - ✅ **Delete:** Uninstall the App to delete all local data
-- ✅ **Opt-Out:** You cannot opt out of analytics without deleting the App
-- ✅ **Modify:** Change player names, settings, age verification anytime
+- ✅ **Modify:** Change player names, settings, preferences anytime
 - ✅ **Cancel Subscriptions:** Manage in Apple ID Account Settings
 
 ### How to Delete Your Data:
-1. Delete individual players: Settings → Manage People → Delete
+1. Delete individual players: Settings → Manage Players → Delete
 2. Delete all data: Uninstall the App from your device
 
 **Note:** Uninstalling the App does NOT cancel subscriptions. You must cancel separately in Apple ID settings.
@@ -285,47 +268,36 @@ We recommend reviewing privacy policies of any third-party services you visit.
 
 ---
 
-## 15. Do Not Track (DNT)
-
-The App does not respond to "Do Not Track" (DNT) signals because:
-- We collect minimal anonymous data
-- Analytics are essential for app functionality and improvement
-
-To stop data collection, uninstall the App.
-
----
-
-## 16. Contact Us
+## 15. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 **Email:** dreamapps.ios@gmail.com
-
 **App:** Party Legend: Guess the Role
-
 **Developer:** Ivan Antonov
-
 **Country:** Ukraine
 
 **Response Time:** We aim to respond within 7 business days.
 
 ---
 
-## 17. Consent
+## 16. Consent
 
 By downloading, installing, or using Party Legend: Guess the Role, you acknowledge that:
 - You have read and understood this Privacy Policy
 - You consent to the collection and use of information as described
-- You are at least 12 years old, or have parental/guardian consent if under 12
+- You are at least 17 years old
 - You have reviewed the privacy policies of Firebase and Apple
 
 If you do not agree to this Privacy Policy, please do not use the App.
 
 ---
 
-## 18. App Store Transparency
+## 17. App Store Compliance
 
-This Privacy Policy is made available to comply with Apple App Store Review Guidelines (Section 5.1). All data handling practices described here are fully transparent to users and the App Store.
+This Privacy Policy complies with Apple App Store Review Guidelines (Section 5.1.1). All data handling practices described here are fully transparent to users.
+
+**Age Rating:** 17+ (Infrequent/Mild Mature/Suggestive Themes)
 
 ---
 
