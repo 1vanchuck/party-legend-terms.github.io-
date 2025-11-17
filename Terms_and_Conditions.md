@@ -11,40 +11,60 @@ Welcome to **Party Legend: Guess the Role**! These Terms & Conditions ("Terms") 
 By using the App, you confirm that:
 - You have read and understood these Terms
 - You agree to comply with all applicable laws and regulations
-- You are at least 13 years old, or have parental/guardian consent if under 13
+- **You are at least 17 years old**
 - You will use the App responsibly and for its intended entertainment purpose
 
-If you do not agree to these Terms, please do not use the App.
+**If you are under 17 years old or do not agree to these Terms, you may not use the App.**
 
 ---
 
 ## 2. Description of Service
 
-**Party Legend: Guess the Role** is an interactive party game app that provides:
-- Random role assignment from various categories
+**Party Legend: Guess the Role** is an interactive party game app designed for mature audiences (17+) that provides:
+- Random role assignment from various text-based categories
 - Performance rating and guessing mechanics
 - Game statistics and awards
 - Host mode and No-Host mode gameplay options
 - Free basic content and premium subscription content
 
-The App is designed for entertainment purposes at parties, gatherings, and social events.
+**Content Type:**
+The App contains **text-based role-playing scenarios** organized into categories. All content is presented as text descriptions with no explicit images, videos, or audio.
+
+**Content Categories:**
+- **Family-Friendly:** Animals, historical figures, mythical creatures, and general comedy scenarios
+- **Mature Humor:** Adult-themed scenarios, suggestive content, and mature comedic situations
+- All content is **text-only** with no visual or audio explicit material
+
+The App is designed for entertainment purposes at parties, gatherings, and social events among adults.
 
 ---
 
-## 3. Age Requirements & Content Filtering
+## 3. Age Requirements & Mature Content
 
-### Age Verification
-- Users can select their age bracket: "Under 18" or "18+"
-- This selection is stored locally on your device only
-- Age verification determines which content categories are available
+### Age Rating: 17+
 
-### Content Access
-- **All Ages Content**: Suitable for all users (e.g., Animals, Superpowers, Historical Figures)
-- **18+ Content**: Available only to users who verify they are 18 or older (e.g., adult-themed categories)
-- Parents/guardians are responsible for supervising children's use of the App
+**Party Legend** is rated **17+** on the App Store and is intended exclusively for users aged 17 and older.
 
-### Changing Age Settings
-Users can change their age verification at any time in Settings. This immediately updates available content.
+**Why 17+:**
+- The App contains text-based mature themes and adult humor
+- Role descriptions may include references to adult situations, suggestive themes, and mature topics
+- Content is designed for entertainment among mature audiences
+- All content is **text-based only** - no explicit images, videos, or audio
+
+### User Confirmation
+
+By downloading and using this App, you confirm that:
+- You are at least 17 years old
+- You understand the App contains mature content
+- You consent to viewing text-based mature themes
+- You will not share the App with anyone under 17
+
+### Content Responsibility
+
+- **All content is text-based** - role descriptions are presented as text only
+- No explicit images, videos, or audio content
+- Users are responsible for ensuring gameplay is appropriate for their environment
+- Do not use the App in the presence of minors
 
 ---
 
@@ -52,21 +72,28 @@ Users can change their age verification at any time in Settings. This immediatel
 
 ### Free Version
 The App offers free access to:
-- Basic gameplay features
+- Core gameplay features
 - Select free categories
-- Core game modes (Host and No-Host)
+- Host mode and No-Host mode
+- Basic game statistics
 
 ### Premium Subscription
 Premium subscriptions unlock:
-- All premium categories
+- All premium text-based role categories
+- Exclusive role collections
 - Additional content as it becomes available
-- Ad-free experience (if applicable)
+- Full access to all game features
 
 ### Subscription Plans
 Available subscription options:
-- **Weekly Subscription**: Renews every 7 days
-- **Monthly Subscription**: Renews every 30 days
-- **Yearly Subscription**: Renews every 365 days
+- **Weekly Subscription:** Renews every 7 days
+- **Monthly Subscription:** Renews every 30 days
+- **Yearly Subscription:** Renews every 365 days
+
+### Free Trial
+- Some subscription plans may offer a free trial period
+- If a free trial is offered, any unused portion will be forfeited when you purchase a subscription
+- Free trial terms will be clearly disclosed at the point of offer
 
 ### Pricing
 - Subscription prices are displayed in the App and may vary by region
@@ -79,10 +106,6 @@ Available subscription options:
 - Your account will be charged for renewal within 24 hours prior to the end of the current period
 - You can manage your subscription and turn off auto-renewal in your Apple ID Account Settings
 
-### Free Trial
-- If a free trial is offered, any unused portion will be forfeited when you purchase a subscription
-- Free trial terms will be clearly disclosed at the point of offer
-
 ---
 
 ## 5. Cancellation & Refunds
@@ -94,11 +117,11 @@ Available subscription options:
 
 ### Refunds
 - All purchases are processed through the Apple App Store
-- Refund requests must be submitted to Apple directly through the App Store
+- Refund requests must be submitted to Apple directly
 - We do not control Apple's refund policies
 - Refunds are granted at Apple's sole discretion according to their terms
 
-To request a refund:
+**To request a refund:**
 1. Go to reportaproblem.apple.com
 2. Sign in with your Apple ID
 3. Find your purchase and select "Report a Problem"
@@ -111,10 +134,12 @@ You agree to use the App responsibly and NOT to:
 - Use the App for any illegal or unauthorized purpose
 - Attempt to hack, reverse engineer, or modify the App
 - Share or distribute App content without permission
-- Create offensive, harmful, or inappropriate content during gameplay
+- Create offensive, harmful, or inappropriate performances during gameplay
 - Harass, bully, or harm other users
 - Attempt to access premium content without paying
 - Use the App in a way that could damage, disable, or impair the service
+- Share the App with users under 17 years old
+- Record or distribute gameplay without consent of all participants
 
 Violation of these rules may result in suspension or termination of your access to the App.
 
@@ -124,29 +149,34 @@ Violation of these rules may result in suspension or termination of your access 
 
 ### Our Content
 All content in the App, including:
-- Role descriptions and categories
+- Text-based role descriptions and categories
 - Graphics, design, and user interface
-- Text, audio, and visual elements
 - App name and branding
+- Game mechanics and algorithms
+- All written scenarios and text content
 
 ...is owned by us or our licensors and is protected by copyright, trademark, and other intellectual property laws.
 
 ### License to Use
-We grant you a limited, non-exclusive, non-transferable license to:
-- Download and use the App on your personal device
-- Access and use the content for personal entertainment purposes only
+We grant you a limited, non-exclusive, non-transferable, revocable license to:
+- Download and use the App on your personal device(s)
+- Access and use the text-based content for personal entertainment purposes only
 
 You may NOT:
 - Copy, modify, distribute, or create derivative works from the App
 - Sell, rent, lease, or sublicense the App or its content
 - Remove copyright or trademark notices
 - Use the App for commercial purposes without written permission
+- Extract, copy, or redistribute text-based role descriptions
+- Create derivative works based on our content
 
 ### User-Generated Content
-During gameplay, you may create performances and interpretations of roles. By using the App, you acknowledge that:
+During gameplay, you may create performances and interpretations of text-based roles. By using the App, you acknowledge that:
 - You retain ownership of your performances
 - We do not record, store, or share your gameplay performances
 - All gameplay occurs locally on your device
+- You are responsible for ensuring your performances are appropriate for your audience
+- You will obtain consent from all participants before recording gameplay
 
 ---
 
@@ -155,7 +185,6 @@ During gameplay, you may create performances and interpretations of roles. By us
 Your privacy is important to us. Please review our **Privacy Policy** for detailed information about:
 - What data we collect (minimal, local-only storage)
 - How we use analytics (Firebase Analytics)
-- Children's privacy protections (COPPA compliance)
 - Your rights and choices
 
 By using the App, you agree to our data practices as described in the Privacy Policy.
@@ -203,15 +232,45 @@ To the maximum extent permitted by law:
 - We are not liable for lost profits, data, or goodwill
 - Our total liability shall not exceed the amount you paid for the App in the past 12 months
 
-### Gaming Content Disclaimer
+### Content Disclaimer
 - The App is designed for entertainment purposes only
-- Role descriptions are fictional and for comedic effect
+- Text-based role descriptions are fictional and for comedic effect
 - We are not responsible for how users interpret or perform roles
-- Users are responsible for ensuring gameplay is appropriate for their audience
+- Users are responsible for ensuring gameplay is appropriate for their audience and environment
+- Mature content is intended for adult audiences (17+) and may contain offensive material
+- We do not endorse or promote any activities depicted in text-based role descriptions
+- **All content is text-only** - no explicit images, videos, or audio
 
 ---
 
-## 11. Updates & Changes
+## 11. Mature Content Warning
+
+### For Users 17+
+
+By downloading and using this App, you acknowledge that:
+- You are at least 17 years old
+- You consent to viewing text-based mature content
+- Content may include adult humor, suggestive themes, and mature topics
+- You will not share the App or its content with minors
+- You are responsible for ensuring gameplay is appropriate for your environment
+
+### Text-Based Content Only
+
+**Important Clarification:**
+- All mature content is presented as **text descriptions only**
+- The App contains **NO explicit images, videos, or audio**
+- Role descriptions may reference adult situations but are text-based comedy scenarios
+- Content is designed for entertainment among consenting adults
+
+### User Responsibility
+- Do not use the App in the presence of minors (under 17)
+- Ensure all players consent to mature content before starting gameplay
+- Mature content is intended for private entertainment among consenting adults (17+)
+- Users are responsible for determining if content is appropriate for their specific social situation
+
+---
+
+## 12. Updates & Changes
 
 ### App Updates
 - We may release updates to improve functionality, add features, or fix bugs
@@ -222,12 +281,12 @@ To the maximum extent permitted by law:
 - We reserve the right to modify these Terms at any time
 - Changes will be effective immediately upon posting
 - Your continued use of the App constitutes acceptance of modified Terms
-- Significant changes will be communicated through the App or email (if provided)
+- Significant changes will be communicated through the App
 - You should review these Terms periodically
 
 ---
 
-## 12. Termination
+## 13. Termination
 
 ### Your Rights
 You may stop using the App at any time by:
@@ -237,6 +296,7 @@ You may stop using the App at any time by:
 ### Our Rights
 We reserve the right to:
 - Suspend or terminate your access for violating these Terms
+- Suspend access if we determine you are under 17 years old
 - Discontinue the App at any time with or without notice
 - Modify or remove features
 
@@ -249,35 +309,13 @@ Upon termination:
 
 ---
 
-## 13. Geographic Restrictions
+## 14. Geographic Restrictions
 
 - The App is available worldwide through the Apple App Store
 - Content and availability may vary by region
-- You are responsible for complying with local laws
+- You are responsible for complying with local laws regarding mature content
 - Some features may not be available in all countries
-
----
-
-## 14. Children's Use
-
-### Parental Responsibility
-If you allow a child under 18 to use the App:
-- You must supervise their use
-- You are responsible for ensuring age-appropriate content selection
-- You must ensure they select the correct age bracket ("Under 18")
-- You must review and approve any in-app purchases
-
-### Age-Appropriate Content
-- We filter content based on age selection
-- The "Under 18" setting hides adult-themed categories
-- Parents should verify age settings are correct
-
-### COPPA Compliance
-For children under 13:
-- We do not knowingly collect personal information
-- All data is stored locally on the device
-- No registration or account creation is required
-- Parents can delete all data by uninstalling the App
+- We reserve the right to restrict access based on geographic location or local regulations
 
 ---
 
@@ -285,6 +323,9 @@ For children under 13:
 
 ### Governing Law
 These Terms are governed by the laws of Ukraine, without regard to conflict of law provisions.
+
+### Informal Resolution
+Before filing a claim, you agree to contact us at dreamapps.ios@gmail.com to attempt to resolve the dispute informally.
 
 ### Arbitration
 Any disputes arising from these Terms or use of the App shall be resolved through binding arbitration, except:
@@ -316,11 +357,11 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have questions about these Terms, please contact us:
 
-**Email**: dreamapps.ios@gmail.com
+**Email:** dreamapps.ios@gmail.com
 
-**App**: Party Legend: Guess the Role
+**App:** Party Legend: Guess the Role
 
-**Developer**: Ivan Antonov
+**Developer:** Ivan Antonov
 
 For technical support, subscription issues, or general inquiries, please reach out via email.
 
@@ -333,7 +374,9 @@ By using Party Legend: Guess the Role, you acknowledge that:
 - You understand your rights and obligations
 - You agree to be bound by these Terms
 - You have reviewed our Privacy Policy
-- You are authorized to agree to these Terms (or have parental consent if under 18)
+- **You confirm you are at least 17 years old**
+- You understand the App contains text-based mature content
+- You consent to viewing mature themes presented as text descriptions
 
 ---
 
